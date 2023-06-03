@@ -1,2 +1,3 @@
-export {app} from './express';
-export {log} from './logger';
+export {app} from './express.js';
+export {log} from './logger.js';
+export {hazelcast} from './hazelcast.js';

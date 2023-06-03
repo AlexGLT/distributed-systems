@@ -1,3 +1,4 @@
-export {app} from './express';
-export {axios} from './axios';
-export {log} from './logger';
+export {app} from './express.js';
+export {axios} from './axios.js';
+export {log} from './logger.js';
+export {hazelcast} from './hazelcast.js';
